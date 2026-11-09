@@ -93,7 +93,7 @@ function Footer() {
       <div className="footer-bottom">
 
         <p>
-          © 2026 Veteriner Kliniği. Tüm hakları saklıdır.
+          © 2026 Veteriner Kliniği. Tüm hakları saklıdır. · Tasarım: <a href="https://dablabs.net/" target="_blank" rel="noopener">DAB Labs</a>
         </p>
 
         <a href="#home">
